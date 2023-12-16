@@ -1,0 +1,5 @@
+Exception handling is a process in computer programming that allows a program to handle errors or unexpected events gracefully, instead of crashing or producing incorrect results. It is done through the use of exceptions, which are objects that represent an error condition.
+
+
+try catch finally
+

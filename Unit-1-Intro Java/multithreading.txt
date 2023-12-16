@@ -1,0 +1,5 @@
+2 ways ;
+
+1. Extending the thread class
+2. Implementing Runnable interfaces
+

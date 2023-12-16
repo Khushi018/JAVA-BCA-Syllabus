@@ -1,0 +1,3 @@
+Unit-1:Java programming
+Java is a popular, high-level programming language that is used to develop a wide range of applications, from desktop applications to mobile and web applications. Java is known for its simplicity, portability, and security features, making it an ideal choice for developers.
+

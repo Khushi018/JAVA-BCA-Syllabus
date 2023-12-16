@@ -1,0 +1,2 @@
+Networking in Java refers to the process of connecting two or more devices together over a network to exchange data and communicate with each other. In Java, networking is implemented using the java.net package, which provides a set of classes and interfaces for building network-based applications.
+

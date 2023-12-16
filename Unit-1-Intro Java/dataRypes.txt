@@ -1,0 +1,16 @@
+1. Primitives data Types
+
+int - -2^31 to 2^31-1.
+long - -2^63 to 2^63-1.
+float
+double 
+char
+boolean
+byte
+short
+
+2. Non-Primitives
+
+String Array
+class Interface
+

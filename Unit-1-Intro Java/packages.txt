@@ -1,0 +1,2 @@
+packages
+A package in Java is a collection of related classes and interfaces. Packages provide a way to organize and structure your code, making it easier to manage and reuse. Packages also help to prevent naming conflicts between classes by ensuring that each class has a unique name within the package.
